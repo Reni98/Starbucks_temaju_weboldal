@@ -1,0 +1,97 @@
+body{
+    color: white;
+}
+
+.logo{
+    width: 90px;
+}
+
+
+.banner_picture{
+    width: 650px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.banner{
+    background-color: #00704A;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 20px;
+    color: white;
+}
+
+.btn_banner{
+    display: block;
+    width: 120px;
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 40px;
+    padding: 8px;
+    border: none;
+    font-weight:500;
+}
+
+.btn_banner:hover{
+    background-color:  #e2f8f0;
+}
+
+.card{
+    color: black;
+}
+
+.green_btn{
+    display: block;
+    width: 130px;
+    background-color: #00704A;
+    text-align: center;
+    padding: 5px;
+    color: white;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.cards_picture{
+    height: 350px;
+}
+
+div.green_card{
+    background-color: #00704A;
+    color: white;
+    border: none;
+}
+
+.white_btn{
+    background-color: white;
+    width: 170px;
+    color: black;
+    padding: 8px;
+    border-radius: 20px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.map_section{
+    background-color: #00704A;
+    align-items: center;   
+    border-radius: 20px;
+    color: white;
+}
+
+.btn_map{
+    display: block;
+    width: 250px;
+    padding: 8px;
+    border-radius: 20px;
+    border: none;
+}
+
+footer{
+    background-color: #00704A;
+    color: white;
+}
+
+.footer_picture{
+    width: 150px;
+    margin: 20px 0 20px 0;
+}
